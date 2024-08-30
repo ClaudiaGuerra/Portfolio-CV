@@ -1,1 +1,6 @@
-Añadir la logica del formulario en JS con emailJS
+añadir animaciones 
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
