@@ -155,6 +155,10 @@ p {
     height: 60px;
 }
 
+.skillslist ul, li {
+    list-style-type: none;
+    text-align: left;
+}
 
 /* ----------------- EDUCATION ---------------------- */
 
@@ -191,6 +195,10 @@ p {
 .custom {
     background-color: rgb(171, 56, 209);
     border: none;
+}
+
+.custom a{
+    color: white;
 }
 
 .custom:hover {
