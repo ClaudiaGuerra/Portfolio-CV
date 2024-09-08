@@ -42,6 +42,10 @@ body {
     border-radius: 20px;
 }
 
+.custombar{
+    --bs-dropdown-link-active-bg: rgb(171, 56, 209);
+}
+
 /* ----------------------------ABOUT ------------------------ */
 
 .about {
@@ -168,6 +172,8 @@ p {
 .ed a{
      color: #0a06eb;
 }
+
+
 
 
 /* ------------------- PROJECTS -------------------------------*/
