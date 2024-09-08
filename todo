@@ -1,4 +1,10 @@
-Anadir cursos 
-colapsar experiencia 
-modificar animacion debajo de experiencia
-añadir boton para el cv 
+1. Anadir cursos 
+-automation con selenium 
+- programming foundations
+- javascript
+- web design
+- react
+- python
+
+2. añadir link a cada uno de los cursos 
+3. Mover logos a la izquierda 
