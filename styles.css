@@ -173,9 +173,15 @@ p {
      color: #0a06eb;
 }
 
-.logoed {
+.logoed{
     text-align-last: left;
+
 }
+
+.testers img{
+    height: 30px;
+}
+
 
 
 /* ------------------- PROJECTS -------------------------------*/
