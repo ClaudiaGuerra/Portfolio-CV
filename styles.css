@@ -173,7 +173,9 @@ p {
      color: #0a06eb;
 }
 
-
+.logoed {
+    text-align-last: left;
+}
 
 
 /* ------------------- PROJECTS -------------------------------*/
