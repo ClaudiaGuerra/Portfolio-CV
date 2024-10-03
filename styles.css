@@ -189,6 +189,10 @@ p {
     text-align: center;
 }
 
+.combo img {
+    height: auto;
+}
+
 /* ---------------------CERTIFICATIONS --------------------------*/
 /* .row h5 {
     color: #0000EE
