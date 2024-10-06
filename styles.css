@@ -145,6 +145,10 @@ p {
     color: rgb(106, 9, 133);
 }
 
+.job li{
+    list-style-type:circle;
+    text-align: left;
+}
 /* ----------------------- SKILLS ---------------------------- */
 
 .col .logo img {
@@ -159,8 +163,8 @@ p {
     height: 60px;
 }
 
-.skillslist ul, li {
-    list-style-type: none;
+.skillslist li {
+    list-style-type: circle;
     text-align: left;
 }
 
