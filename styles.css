@@ -42,7 +42,7 @@ body {
     border-radius: 20px;
 }
 
-.custombar{
+.custombar {
     --bs-dropdown-link-active-bg: rgb(171, 56, 209);
 }
 
@@ -145,17 +145,18 @@ p {
     color: rgb(106, 9, 133);
 }
 
-.job li{
-    list-style-type:circle;
+.job li {
+    list-style-type: circle;
     text-align: left;
 }
+
 /* ----------------------- SKILLS ---------------------------- */
 
 .col .logo img {
     height: 150px;
 }
 
-.col .logo p{
+.col .logo p {
     text-align: right;
 }
 
@@ -170,19 +171,20 @@ p {
 
 /* ----------------- EDUCATION ---------------------- */
 
-.ed{
+.ed {
     color: #0a06eb;
 }
-.ed a{
-     color: #0a06eb;
+
+.ed a {
+    color: #0a06eb;
 }
 
-.logoed{
+.logoed {
     text-align-last: left;
 
 }
 
-.testers img{
+.testers img {
     height: 30px;
 }
 
@@ -219,7 +221,7 @@ p {
     border: none;
 }
 
-.custom a{
+.custom a {
     color: white;
     text-decoration: none;
 }
@@ -272,7 +274,7 @@ footer .ft img {
     width: 25px;
 }
 
-footer .ft{
+footer .ft {
     display: inline-block;
     flex-direction: column;
 }
