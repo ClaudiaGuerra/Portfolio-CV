@@ -16,7 +16,7 @@ document.getElementById('form')
       return;
     }
     /* Validación 2: Email válido */
-    if ( !emailValidation.test(email)){
+    if (!emailValidation.test(email)) {
       alert('Invalid email, please enter a valid email :)');
       return;
     }
@@ -31,8 +31,8 @@ document.getElementById('form')
         btn.value = 'Send Email';
         alert('Sent!');
       }, (err) => {
-        console.log(err);
+        console.error('EmailJS error:', err); // en lugar de console.log
         btn.value = 'Send Email';
-        alert(JSON.stringify(err));
+        alert(err.text || err.message || 'Oops! Something went wrong. Please contact me at claudiagbak@gmail.com'); // en lugar de JSON.stringify(err)
       });
   });
